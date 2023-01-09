@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008f11&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rodrigo+Dias;I'm+21+years+old;I+from+Brasil,+SP;I+study+Information+Systems+at+Estacio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Rodrigopereiradias&theme=gotham&hide_border=true&area=true)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rodrigopereiradias&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
